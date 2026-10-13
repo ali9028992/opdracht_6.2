@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    width: 1200px;
+
+
+}
+
+.block1,
+.block2,
+.block3,
+.block4 {
+    background-color: blue;
+    display: flex;
+    width: 200px;
+    height: 200px;
+}
+
+.block2 {
+    background-color: black;
+
+
+}
+
+.block3 {
+    background-color: red;
+
+}
+
+.block4 {
+    background-color: green;
+
+}
